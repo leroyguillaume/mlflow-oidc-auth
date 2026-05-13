@@ -3,9 +3,14 @@
 [![PyPI Downloads](https://static.pepy.tech/badge/mlflow-oidc-auth/month)](https://pepy.tech/projects/mlflow-oidc-auth)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/mlflow-oidc/mlflow-oidc-auth)
 
-MLflow auth plugin to use OpenID Connect (OIDC) as authentication and authorization provider.
+OpenID Connect (OIDC) authentication and authorization plugin for MLflow.
 
 This plugin allows you to use OIDC for user management in MLflow, enabling single sign-on (SSO) capabilities and centralized user management.
+
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or sponsored by the MLflow Project, Databricks, the Linux Foundation, or LF Projects, LLC.
+MLflow and related marks are trademarks of their respective owners.
 
 ### Features
 - OIDC-based authentication for MLflow UI and API
